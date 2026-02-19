@@ -1,0 +1,16 @@
+#winstreak_text {
+  font-size: {{fontSize}}px;
+  font-family: "{{fontName}}", "Supercell-Magic", "Clash", "Comic Sans MS", sans-serif;
+  color: {{textColor}};
+  text-shadow: -{{shadowWidth}}px -{{shadowWidth}}px 0 {{outlineColor}},-{{shadowWidth}}px {{shadowWidth}}px 0 {{outlineColor}},{{shadowWidth}}px -{{shadowWidth}}px 0 {{outlineColor}}, {{shadowWidth}}px {{shadowWidth}}px 0 {{outlineColor}};
+  margin: 0px;
+  padding: 5px;
+  text-align: {{textAlign}};
+  font-weight: {{fontWeight}};
+  letter-spacing: {{letterSpacing}}px;
+}
+
+#streak {
+  padding-left: 5px;
+  margin: 0px;
+}
