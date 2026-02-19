@@ -124,7 +124,7 @@ async function checkLastOnline(username) {
 
   if (!uptime.includes("offline")) await SE_API.store.set("last_online", Date.now());
   else {
-    let lastOnline = (await SE_API.store.get("last_online")) ?? 0;
+    let lastOnline = (await SE_API.store.get("last_online"))?.value ?? 0;
     if (Date.now() - lastOnline > 900000) { // 15m offline grace period for temporary disconnects
       updateRecord(0, 0, 0);
     }
