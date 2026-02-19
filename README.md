@@ -42,6 +42,11 @@ By default, the API limits you to one account subscription. To track more accoun
 9. Paste the token in the 'Clash Royale API Key' box
 10. Add the rest of your account tags to the 'Accounts Tags' text box. Separate each with a comma. Example: `#48GJ5KE, #9kgjn5, #84TkmeE`
 
+## Variables
+{wins} - Displays the number of wins  
+{losses} - Displays the number of losses  
+{streak} - Displays the win streak  
+
 ## Warnings
 Feel free to connect to the API for small personal projects, or customize the widget to your liking.
 - Max 1 WebSocket connection per IP
