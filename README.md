@@ -1,11 +1,11 @@
-# Clash Royale Win Counter Widget v1.0.1
+# Clash Royale Win Counter Widget v1.0.2
 Automatically updates a win/loss counter for your stream, with very simple setup.
 
 ## Downloading Widget
 Downloading via link is far simpler. However, if you'd like to add the widget in an existing widget, you can manually copy the sections over.
 
 **Via Link**
-1. Click the following link and sign-in ➜ https://seapi.c4ldas.com.br/overlays/install/1771531322519
+1. Click the following link and sign-in ➜ https://seapi.c4ldas.com.br/overlays/install/1771565693241
 
 **Manually**
 1. Head to your StreamElements Overlay's ➜ https://streamelements.com/dashboard/overlays
@@ -46,7 +46,8 @@ By default, the API limits you to one account subscription. To track more accoun
 {wins} - Displays the number of wins  
 {losses} - Displays the number of losses  
 {streak} - Displays the win streak  
-
+&lt;br&gt; - Acts as a newline.
+ 
 ## Warnings
 Feel free to connect to the API for small personal projects, or customize the widget to your liking.
 - Max 1 WebSocket connection per IP

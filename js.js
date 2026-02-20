@@ -131,9 +131,10 @@ async function checkLastOnline(username) {
   }
 }
 
-async function updateRecord(newWins, newLosses, streak) {
+async function updateRecord(newWins, newLosses, newStreak) {
   wins = newWins;
   losses = newLosses;
+  streak = newStreak;
 
   let totalWins = wins + fieldData.initialWins;
   let totalLosses = losses + fieldData.initialLosses;

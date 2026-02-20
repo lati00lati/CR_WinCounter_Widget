@@ -1,7 +1,7 @@
 {
   "displayText": {
     "type": "textarea",
-    "label": "Text to display. {wins} {losses} variables.",
+    "label": "Text to display. View github for vars.",
     "value": "W/L Record {wins}-{losses}",
     "group": "Settings"
   },
