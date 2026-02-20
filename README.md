@@ -2,7 +2,7 @@
 Automatically updates a win/loss counter for your stream, with very simple setup.
 
 ## Downloading Widget
-Downloading via link is far simpler. However, if you'd like to add the widget in an existing widget, you can manually copy the sections over.
+Downloading via link is recommended for the initial install. If you want to install this widget within another widget, or if you want to update the widget without clearing stored data, install it manually.
 
 **Via Link**
 1. Click the following link and sign-in ➜ https://seapi.c4ldas.com.br/overlays/install/1771565693241
