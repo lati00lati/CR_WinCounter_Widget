@@ -50,7 +50,7 @@ By default, the API limits you to one account subscription. To track more accoun
  
 ## Warnings
 Feel free to connect to the API for small personal projects, or customize the widget to your liking.
-- Max 1 WebSocket connection per IP
+- Max 2 WebSocket connection per IP; One for OBS connection, one for StreamElements browser connection
 - Max 1 WebSocket subscription without a Clash Royale Token
 - Max 40 WebSocket subscriptions with a Clash Royale Token
 - Abuse of the API will result in a permanent IP ban
