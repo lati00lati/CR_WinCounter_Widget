@@ -5,7 +5,8 @@ Automatically updates a win/loss counter for your stream, with very simple setup
 Downloading via link is recommended for the initial install. If you want to install this widget within another widget, or if you want to update the widget without clearing stored data, install it manually.
 
 **Via Link**
-1. Click the following link and sign-in ➜ https://seapi.c4ldas.com.br/overlays/install/1771565693241
+1. Click the following link and sign-in ➜ https://seapi.c4ldas.com.br/overlays/install
+2. Click this link after signing in: https://seapi.c4ldas.com.br/overlays/install/1771565693241
 
 **Manually**
 1. Head to your StreamElements Overlay's ➜ https://streamelements.com/dashboard/overlays
