@@ -29,6 +29,7 @@ View [Multiple Accounts](#multiple-accounts) if you need to track more than 1 ac
 3. Paste the copied URL into the Browser Source URL on OBS.
 4. Set the Browser Source width to 1920 and the height to 1080.
 5. [Optional] Crop the source by holding ALT whild adjusting the boundaries of the widget.
+6. [Optional] For multiple OBS scenes, use the EXISTING source rather than creating a new one per scene. Otherwise, you may be blocked for [too many connections](#warnings).
 
 ## Multiple Accounts
 By default, the API limits you to one account subscription. To track more accounts at once, you need to obtain a Clash Royale API token.
